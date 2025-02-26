@@ -12,6 +12,10 @@ New update!!
 
 ## Local Development 
 
+<<<<<<< HEAD
 1. Open index.html!
 
 2. Open README 
+=======
+1. Open index.html in browser
+>>>>>>> main
